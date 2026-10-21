@@ -1,29 +1,35 @@
-## 你好鸭 👋
+<p align="center">
+  <a href="https://github.com/Qiqi29">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Qiqi;Welcome+to+my+Repositories!" alt="" />
+  </a>
+</p>
 
-### 我是
-🧑🏼‍🎓 读书 | 安徽 · 软件技术<br>
-🥰 爱好 | 新事物、音乐、电影<br>
-🏷️ 标签 | `理性` `性格平稳` `有时间观念`
-
-### 平时
-喜欢把自己的想法实现出来。<br>
-也喜欢拍照，剪剪视频。
-
-### 语言
-最喜欢的是 Vue3，yyx YYDS！
+<p align="center">
+  <em>- 喜欢把自己的想法实现出来 -</em>
+</p>
 
 
-<!--
-**Qiqi29/Qiqi29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧭 关于我
 
-Here are some ideas to get you started:
+- 🌱 正在着手准备开发一个新的项目
+- 🧡 喜欢摄影、音乐、研究各种新东西
+- 🏷️ 标签 | `理性` `性格平稳` `有时间观念`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🛠 技术栈
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,vite,vue,nodejs,tauri,python" />
+</p>
+
+
+### 🌐 找到我
+
+<p align="left">
+  <a href="https://space.bilibili.com/401652755">
+    <img src="https://img.shields.io/badge/Bilibili-F37697?style=for-the-badge&logo=bilibili&logoColor=white" />
+  </a>
+  <a href="https://discord.gg/cpMYCK9j">
+    <img src="https://img.shields.io/badge/Discord-2891FF?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
